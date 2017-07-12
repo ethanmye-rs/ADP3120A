@@ -1,1 +1,1 @@
-This is a ADP3120A based H Bridge Driver. It utilizes 2 ADP3120A Gate drivers to 
+This is a ADP3120A based H Bridge Driver. It utilizes 2 ADP3120A Gate drivers to drive 4 N Channel MOSFETs, rated for up to 30V and 6A each. The board is less than one square inch and the BOM + PCB can be purchased for around $10 in singles quanitity from Digikey and OSHpark.
