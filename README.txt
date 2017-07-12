@@ -1,0 +1,1 @@
+This is a ADP3120A based H Bridge Driver. It utilizes 2 ADP3120A Gate drivers to 
